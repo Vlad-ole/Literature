@@ -1,0 +1,69 @@
+BODY {
+	bgcolor: #FFFFFF; leftmargin: 0; topmargin: 0; marginwidth: 0; marginheight: 0
+}
+A:link {
+	COLOR: #003366
+}
+A:visited {
+	COLOR: #330066
+}
+A:active {
+	COLOR: #003366
+}
+UL.standard {
+	LIST-STYLE-TYPE: disc
+}
+OL.standard {
+	LIST-STYLE-TYPE: decimal
+}
+.breadcrumb {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: underline
+}
+.breadcrumbseparator {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.introparagraph {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.smallparagraph {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.stdparagraph {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.reference {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #333366; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.bigheader {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #333366; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.stdheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #333366; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.smallheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #333366; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.pageheader {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #333366; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.stdlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.highlighttitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.highlightdesc {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.newatgems {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #333366; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: underline
+}
+.login {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #959595; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: underline
+}
+.loginseparator {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #959595; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.footnote {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #959595; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
