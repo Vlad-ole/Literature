@@ -1,0 +1,43 @@
+*******************************************
+DT5720 User Manual Release Notes
+*******************************************
+Revision: 09
+Date:  25-07-2014
+Release Notes:
+Updated §2.4.1, §2.4.3, §3.1
+
+===================================================
+Revision: 08
+Date: 10-06-2013
+Release Notes:
+Updated §3.3.2.1
+
+===================================================
+Revision: 07
+Date: 22-04-2013
+Release Notes:
+Updated §1, §3.3.1, §3.3.2, §3.3.3.1, §3.5.3.1, §5.3, §5.4;
+Added §5.3.1, §6;
+Eliminated the Registers chapter:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A NEW DOCUMENT UNIFYING THE REGISTERS DESCRIPTIONS 
+OF CAEN DIGITIZERS IS IN PROGRESS;
+THE USER CAN TEMPORARILY REFER TO 
+THE DOCUMENT "DT5720 REGISTERS DESCRIPTIONS"
+AT THE DIGITIZER PAGE IN THE DOCUMENTATION TAB  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+===================================================
+Revision: 06 
+Date: 26-11-2012 
+Release Notes:
+Updated §1.1, §2.2, §2.6, §6.4; added §3.3.2, §3.3.3.1, §5.2, §5.27 §6.3
+ 
+===================================================
+Revision: 05 
+Date: 06-02-2012 
+Release Notes: 
+Updated §4, §6.3;
+Added §6.4
+ 
+===================================================
